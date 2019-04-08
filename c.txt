@@ -3,4 +3,8 @@ BBBBBBBBBBBB
 ddddddddddda
 ddddddddddddddddd
 dwadadwa
+<<<<<<< HEAD
 wowowopp
+=======
+wowowowowo
+>>>>>>> remotes/origin/master
